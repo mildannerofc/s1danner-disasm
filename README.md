@@ -42,3 +42,5 @@ Free assets thread, I ask people permission if I want to use it. If they say tha
 Simply using hexadecimal, save state and compressing it to work on the disassembly (You need to ask people permission if they tolerate it).
 ## Sonidanner has unique assets?
 Yes, CA22 ported from Purish Engine itself and MJ Moonwalker font usable for Sonic 2. If you may ask, there's no people that used assets that are from Sonidanner since it's unique and did not go around the community for realtime.
+## Can I use this disassembly?
+No, just use the [Purish Engine](https://github.com/mildannerofc/S1Purish-Engine-Disasm) instead. It's the same disassembly but with additions and optimizations that remove any garbage in code.
