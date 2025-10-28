@@ -26,3 +26,11 @@ This ROM Hack has a goal to be exactly the same palette change (Simple tile chan
 * vgm2smps by Ivan YO
 * Furnace Tracker by Tildearrow
 * MainMemory - SonLVL, SonPLN, S1SSEdit
+
+**Do not steal anything without Mildanner's permission or something bad will happen.**
+
+Here are questions related to Purish and Sonidanner
+## What in the world is "Purish Engine"?
+Mildanner's personal ROM Hacking base that he calls it "engine" that has the additions he like.
+## "Sonidanner" is it like SoniNeko?
+No, there are no stuff related to SoniNeko since there's no people to help in code. I had to make it in individual and not reach the hacking community.
