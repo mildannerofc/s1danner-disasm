@@ -37,7 +37,7 @@ No, there are no stuff related to SoniNeko since there's no people to help in co
 ## Why Under 500 was a failure?
 It used abandoned ASM68K branch (Stole assets from other ROM Hacks like Sonic 1 South Island Expedition and also got rejected to join SHC) and is also not possible to add Mega PCM 2, if you want to see the pre-installed Mega PCM 2 from the same disassembly. Check it in [here](https://github.com/mildannerofc/s1disasm-asm68k-megapcm2)
 ## Is it going to join SHC?
-Only in my decisions, staff has warned me to not upload entry with assets that I can't use in my ROM Hack and I'm still improving on my mistakes.
+Only in my decisions, staff has warned me to not upload entry with assets that I can't use in my ROM Hack and I'm still improving on my mistakes. I swear, if I submit one more "Under 500" hack on SHC. They will probably take action or the ROM Hack does not follow quality control after having stolen assets removed and replaced with unique assets that's made using programs.
 ## Where do you find these assets?
 Free assets thread, I ask people permission if I want to use it. If they say that not want their music to be used since it's for unique project, I'll refuse to use and listen to what they were saying.
 ## How to "rip" assets from other ROM Hacks?
