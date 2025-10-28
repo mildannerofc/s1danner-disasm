@@ -34,3 +34,11 @@ Here are questions related to Purish and Sonidanner
 Mildanner's personal ROM Hacking base that he calls it "engine" that has the additions he like.
 ## "Sonidanner" is it like SoniNeko?
 No, there are no stuff related to SoniNeko since there's no people to help in code. I had to make it in individual and not reach the hacking community.
+## Why Under 500 was a failure?
+It used abandoned ASM68K branch (Stole assets from other ROM Hacks like Sonic 1 South Island Expedition and also got rejected to join SHC) and is also not possible to add Mega PCM 2, if you want to see the pre-installed Mega PCM 2 from the same disassembly. Check it in [here](https://github.com/mildannerofc/s1disasm-asm68k-megapcm2)
+## Is it going to join SHC?
+Only in my decisions, staff has warned me to not upload entry with assets that I can't use in my ROM Hack and I'm still improving on my mistakes.
+## Where do you find these assets?
+Free assets thread, I ask people permission if I want to use it. If they say that not want their music to be used since it's for unique project, I'll refuse to use and listen to what they were saying.
+## How to "rip" assets from other ROM Hacks?
+Simply using hexadecimal, save state and compressing it to work on the disassembly (You need to ask people permission if they tolerate it).
