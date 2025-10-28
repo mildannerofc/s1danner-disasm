@@ -1,4 +1,4 @@
-<img width="320" height="224" alt="image" src="https://github.com/user-attachments/assets/2ffba1d6-7408-4782-9b11-5f5bc6b0db8c" />
+<img width="640" height="448" alt="image" src="https://github.com/user-attachments/assets/2ffba1d6-7408-4782-9b11-5f5bc6b0db8c" />
 
 # Sonidanner - Public Source Code
 Sonidanner is a ROM Hack of Sonic the Hedgehog that tends to make different and basic linear level design, abilities, music and palette (Also cool stuff that nobody expect it to be in actual ROM Hack). This ROM Hack is actually lesson for making a ROM Hack with unique stuff like palette, music and the exclusive engine used is Purish Engine that Mildanner did make. People do not call it "Sonic 1 Under 500 successor", this ROM Hack is still in WIP and has stuff to end after adjustments and improvements being implemented in the ROM Hack (Expect it being on the unique engine).
