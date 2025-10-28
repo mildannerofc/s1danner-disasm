@@ -38,6 +38,8 @@ No, there are no stuff related to SoniNeko since there's no people to help in co
 It used abandoned ASM68K branch (Stole assets from other ROM Hacks like Sonic 1 South Island Expedition and also got rejected to join SHC) and is also not possible to add Mega PCM 2, if you want to see the pre-installed Mega PCM 2 from the same disassembly. Check it in [here](https://github.com/mildannerofc/s1disasm-asm68k-megapcm2)
 ## Where do you find these assets?
 Free assets thread, I ask people permission if I want to use it. If they say that not want their music to be used since it's for unique project, I'll refuse to use and listen to what they were saying.
+## Can I study this disassembly?
+Feel free to do, but please credit any people who helped.
 ## How to "rip" assets from other ROM Hacks?
 Simply using hexadecimal, save state and compressing it to work on the disassembly (You need to ask people permission if they tolerate it).
 ## Sonidanner has unique assets?
